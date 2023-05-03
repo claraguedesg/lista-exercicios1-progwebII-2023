@@ -53,9 +53,8 @@
 
                 <div>
                   <input type="checkbox" name="sabores[]" value="portuguesa">
-                  <label for="portuguesa">Portuguesa</label>
+                  <label for="portuguesa">Portuguese</label>
                 </div>
-              </fieldset>
 
 
                 <button name="enviar"> Enviar </button>
